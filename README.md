@@ -1,4 +1,4 @@
-# Resolución de los desafíos del curso de lógica de programación
+# Resolución de los desafíos del curso de Lógica de programación: sumérgete en la programación con JavaScript
 
 1.Muestra una alerta con el mensaje "¡Bienvenido a nuestro sitio web!".
 ```javascript
